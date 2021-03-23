@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kyle Paterson
+- 👀 I’m interested in automating and simplifying boring tasks, simulators and physics engines
+- 🌱 I’m currently learning Python (Scikit-learn), Tensorflow/Keras, Lua and Love3d
+- 💞️ I’m looking to collaborate on game design.
+- 📫 How to reach me: kylepaterson@protonmail.com
